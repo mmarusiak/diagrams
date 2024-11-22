@@ -46,8 +46,8 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlmHAHsa19bi8kJ0wWyT-8" value="j &amp;lt; dlugość(lista)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="353" y="640" width="145" height="140" as="geometry" />
+        <mxCell id="WlmHAHsa19bi8kJ0wWyT-8" value="j &amp;lt; dlugość(lista) - current" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="342" y="640" width="167" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WlmHAHsa19bi8kJ0wWyT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WlmHAHsa19bi8kJ0wWyT-14" target="WlmHAHsa19bi8kJ0wWyT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
