@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.8.8">
   <diagram name="Page-1" id="_KdJVr_0JZ-v-OtZomOz">
-    <mxGraphModel dx="1834" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2008" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,11 @@
         <mxCell id="WlmHAHsa19bi8kJ0wWyT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlmHAHsa19bi8kJ0wWyT-8" target="WlmHAHsa19bi8kJ0wWyT-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlmHAHsa19bi8kJ0wWyT-52" value="NIE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WlmHAHsa19bi8kJ0wWyT-30">
+          <mxGeometry x="-0.4127" y="4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WlmHAHsa19bi8kJ0wWyT-8" value="j &amp;lt; dlugość(lista)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
